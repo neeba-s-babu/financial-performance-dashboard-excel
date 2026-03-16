@@ -73,7 +73,7 @@ The dashboard includes several visual components designed to support financial a
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Imgaes/Image.jpg)
 
 ---
 
