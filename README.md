@@ -67,7 +67,7 @@ The dashboard includes several visual components designed to support financial a
 * **XLOOKUP**
 * **Data Visualization**
 
----https://1drv.ms/i/c/67755aadef163d83/IQBh-RCwPSlQTp7ZRJg7SDggAVl3eyiyJbz5PyDuQzn2iQI?e=l1tmvE
+---
 
 ## Dashboard Preview
 
