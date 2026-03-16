@@ -71,7 +71,9 @@ The dashboard includes several visual components designed to support financial a
 
 ## Dashboard Preview
 
-Financial Performance Analysis- Actual vs Budget (CHF).jpg
+## Dashboard Preview
+
+![Dashboard](images/dashboard_preview.png)
 
 ---
 
