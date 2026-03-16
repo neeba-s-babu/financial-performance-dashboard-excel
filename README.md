@@ -1,85 +1,98 @@
-🔎 Financial Performance Dashboard – Actual vs Budget Analysis (CHF) (Excel)
-Overview
+# 📊 Financial Performance Dashboard – Actual vs Budget Analysis (Excel)
 
-This project presents an interactive financial performance dashboard built in Excel to analyze Actual vs Budget performance across regions, departments, and financial categories.
+## Overview
 
-The dashboard helps identify performance gaps, analyze cost drivers, and monitor profitability through variance analysis.
+This project presents an interactive **Financial Performance Dashboard** built in **Microsoft Excel** to analyze **Actual vs Budget performance** across regions, departments, and financial categories.
+
+The dashboard provides a clear view of financial performance by highlighting **profitability trends, cost drivers, and budget variances**. It enables decision-makers to quickly identify performance gaps and understand the factors impacting overall financial results.
+
+---
+
+## Key Features
+
+* Data cleaning and transformation using **Power Query**
+* Structured financial dataset using **Excel Tables**
+* Account-to-category mapping using **XLOOKUP**
+* **Pivot Table-based Profit & Loss (P&L) analysis**
+* Calculation of **Variance** and **Variance %**
+* Interactive filtering using **Slicers** (Year, Month, Region, Department)
+* Data visualizations for trend analysis and cost breakdown
+
+---
+
+## Dashboard Insights
+
+Key findings from the analysis:
+
+* Net profit is **1.06% below budget**
+* The variance is mainly driven by **higher operating expenses**
+* Regional performance differences highlight **opportunities for cost optimization**
+
+---
+
+## Dashboard Visualizations
+
+The dashboard includes several visual components designed to support financial analysis:
+
+* **KPI Cards**
+
+  * Actual Profit
+  * Budget Profit
+  * Variance
+  * Variance %
+
+* **Monthly Trend**
+
+  * Actual vs Budget performance over time
+
+* **Variance by Category**
+
+  * Highlights key drivers of financial variance
+
+* **Expense Breakdown**
+
+  * Shows distribution of major expense categories
+
+* **Region Performance**
+
+  * Compares financial performance across geographic regions
+
+---
+
+## Tools & Technologies
+
+* **Microsoft Excel**
+* **Power Query**
+* **Pivot Tables**
+* **XLOOKUP**
+* **Data Visualization**
+
+---https://1drv.ms/i/c/67755aadef163d83/IQBh-RCwPSlQTp7ZRJg7SDggAVl3eyiyJbz5PyDuQzn2iQI?e=l1tmvE
+
+## Dashboard Preview
 
 
 
-Key Features
+---
 
-Data cleaning and transformation using Power Query
-
-Financial data structuring with Excel Tables
-
-Category mapping using XLOOKUP
-
-Pivot Table-based P&L analysis
-
-Calculation of Variance and Variance %
-
-Interactive filtering using slicers (Year, Month, Region, Department)
-
-Visualizations for trend analysis and cost breakdown
-
-
-
-
-📈 Dashboard Insights
-
-Net profit is 1.06% below budget
-
-The variance is primarily driven by higher operating expenses
-
-Regional performance differences highlight opportunities for cost optimization
-
-
-
-Dashboard Visualizations
-
-The dashboard includes the following visual components:
-
-KPI Cards (Actual Profit, Budget Profit, Variance, Variance %)
-
-Monthly Trend (Actual vs Budget)
-
-Variance by Category
-
-Expense Breakdown
-
-Region Performance
-
-
-
-Tools & Technologies
-
-Microsoft Excel
-
-Power Query
-
-Pivot Tables
-
-XLOOKUP
-
-Data Visualization
-
-Dashboard Preview
-
-
-
-
-Project Structure
+## Project Structure
 
 financial-performance-dashboard-excel
 │
 ├── Dashboard.xlsx
 ├── data
-│ └── raw_financial_data.xlsx
+│   └── raw_financial_data.xlsx
 ├── images
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 └── README.md
 
-Next Steps
+---
 
-The next phase of this project is to rebuild the same dashboard using Power BI to demonstrate advanced data modeling and interactive reporting capabilities.
+## Next Steps
+
+The next phase of this project is to recreate the same dashboard using **Power BI** to demonstrate:
+
+* Advanced **data modeling**
+* **DAX-based calculations**
+* Enhanced **interactive visualizations**
+* Professional BI dashboard design
